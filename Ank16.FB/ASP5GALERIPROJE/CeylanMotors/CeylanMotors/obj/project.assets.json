@@ -4285,11 +4285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\CeylanMotors.csproj",
+      "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\CeylanMotors.csproj",
       "projectName": "CeylanMotors",
-      "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\CeylanMotors.csproj",
+      "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\CeylanMotors.csproj",
       "packagesPath": "C:\\Users\\furkan.baybura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\obj\\",
+      "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furkan.baybura\\AppData\\Roaming\\NuGet\\NuGet.Config",
