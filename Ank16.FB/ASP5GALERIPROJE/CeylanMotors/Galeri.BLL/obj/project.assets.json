@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\Galeri.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\Galeri.BLL.csproj",
       "projectName": "Galeri.BLL",
-      "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\Galeri.BLL.csproj",
+      "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\Galeri.BLL.csproj",
       "packagesPath": "C:\\Users\\furkan.baybura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\obj\\",
+      "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furkan.baybura\\AppData\\Roaming\\NuGet\\NuGet.Config",

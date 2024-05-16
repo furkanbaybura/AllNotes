@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj": {}
+    "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj": {
+    "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
         "projectName": "Galeri.DAL",
-        "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
+        "projectPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
         "packagesPath": "C:\\Users\\furkan.baybura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\obj\\",
+        "outputPath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\furkan.baybura\\AppData\\Roaming\\NuGet\\NuGet.Config",

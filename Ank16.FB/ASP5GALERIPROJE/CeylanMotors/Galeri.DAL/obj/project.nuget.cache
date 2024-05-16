@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7V4Y8hz3eGZPWxh0I6m2trft7XB73XpJ4zcd8pi1UCBdXQ14yvESbOSc4ZWjXbICkcEBVRuMffsletZvE8FvDw==",
+  "dgSpecHash": "5l2Pj5Xo/1qh48FQNViXRUetvny/ZvzTnIW6iNKjPk1DNAQFxtXsfiS+Oq4VtBgEB5uyC2xIFjJ2deJd1f2FDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furkan.baybura\\Source\\Repos\\Ank16\\furkan.baybura\\.Net\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
+  "projectFilePath": "C:\\Users\\furkan.baybura\\Source\\Repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\Galeri.DAL\\Galeri.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furkan.baybura\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\furkan.baybura\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
