@@ -1,0 +1,78 @@
+﻿namespace HelloWorld
+{ // name space scope başlangıcı
+    /*
+     * değişken tanımlama => global (genel)
+     * Class tanımlanabilir.
+     * Struct tanımlayabiliriz
+     * Enum tanımlayabiliriz.
+     */
+
+    internal class Program // [erişim belirleyici] class [class_name]
+    {// class scope başlangıcı
+     // [veri_tipi] [değişken_adı] = [ilk_değer0];
+     //tanımlama ve ilk değer atama
+
+        int sayi; // Declare
+        sayi = 19; // Assign
+     // C# İlkel veri tipleri 
+     /*
+        # Tam Sayılar
+             * Sayısal Veri Tpleri
+             * - byte -> 0 - 255
+             * - sbyte -> -128 - 127
+             * - short -> ±32000                => 16bit Int16 => System.Int16
+             * - ushort -> 0 - 65000
+             * - int -> ± 2.1 milyar            => 32bit Int32 => System.Int32
+             * - uint -> 0 - 4 milyar
+             * - long -> ± 9 kattrilyon         => 64bit Int64 => System.Int64
+             * - ulon -> 0 - 18 kattrilyon
+        # Ondalıklı Sayılar
+             * float
+             * double
+             * decimal
+        # Metinsel Veri Tipleri
+             * - string => çift tırnak içinde uzun metinler için "Hello"
+             * - char => tek karakter "H"
+        # Tarihsel Veri Tipleri
+             * DateTime
+        # Diğer Veri Tipleri
+             * Object
+             * class
+             * bool ture/false defoult=false
+        # Data Structer
+             *Array
+             *ArrayList
+             *List
+             *Dictionary
+             *HashTable
+             *HashSet
+                                 
+          */
+
+
+         * 
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!"); 
+         /* // OUTPUT
+          # Console.Write(str);
+                *str parametresini console ekranına tek satırda yazan ve imleçi aynı satırda bırakan metot
+          # Console.WriteLine(str);
+                * str parametresini console ekranına tek satırda yazan ve sonrası da imleçi yeni satıra taşıyan metot
+          
+          */
+            Console.ReadKey();
+            /* //INPUT
+          #Console.ReadLine();
+                *kod bu satırda kullanıcıdan bir veri girmesini ister
+               
+          #Console.ReadKey();
+                *
+
+             */
+             sınavda çıkar // value type 
+             // reference type
+
+        }
+    }// class scope bitişi
+} // name space scope sonu

@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\bin\Debug\net6.0\4-HataYonetimiAndDebugging.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\bin\Debug\net6.0\4-HataYonetimiAndDebugging.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\bin\Debug\net6.0\4-HataYonetimiAndDebugging.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\bin\Debug\net6.0\4-HataYonetimiAndDebugging.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\bin\Debug\net6.0\4-HataYonetimiAndDebugging.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\refint\4-HataYonetimiAndDebugging.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\4-HataYonetimiAndDebugging.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\4-HataYonetimiAndDebugging\obj\Debug\net6.0\ref\4-HataYonetimiAndDebugging.dll

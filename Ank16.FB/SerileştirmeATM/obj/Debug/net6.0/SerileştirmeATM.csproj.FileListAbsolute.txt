@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\bin\Debug\net6.0\SerileştirmeATM.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\bin\Debug\net6.0\SerileştirmeATM.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\bin\Debug\net6.0\SerileştirmeATM.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\bin\Debug\net6.0\SerileştirmeATM.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\bin\Debug\net6.0\SerileştirmeATM.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\refint\SerileştirmeATM.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\SerileştirmeATM.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\SerileştirmeATM\obj\Debug\net6.0\ref\SerileştirmeATM.dll

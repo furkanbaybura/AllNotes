@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|c:\\users\\alp.ceyhan\\source\\repos\\ank16esyaajax\\ank16esyaajax\\views\\esya\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\views\\esya\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\controllers\\esyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\controllers\\esyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\data\\esya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\data\\esya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\context\\esyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\context\\esyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ank16esyaajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ank16esyaajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DEFF6-DF39-4CAE-A47C-B9AF2F005DDE}|ANK16EsyaAJAX\\ANK16EsyaAJAX.csproj|solutionrelative:ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Esya.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Data\\Esya.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Data\\Esya.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Data\\Esya.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Data\\Esya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:32:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EsyaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Context\\EsyaDbContext.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Context\\EsyaDbContext.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Context\\EsyaDbContext.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Context\\EsyaDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:31:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:27:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Views\\Esya\\Index.cshtml",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Views\\Esya\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Views\\Esya\\Index.cshtml",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Views\\Esya\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv2AAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T11:48:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EsyaController.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Controllers\\EsyaController.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Controllers\\EsyaController.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Controllers\\EsyaController.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Controllers\\EsyaController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:47:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\appsettings.json",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\appsettings.json",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\appsettings.json",
+              "RelativeToolTip": "ANK16EsyaAJAX\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T13:33:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240508133538_ilk.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Migrations\\20240508133538_ilk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:35:38.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Program.cs",
+              "RelativeDocumentMoniker": "ANK16EsyaAJAX\\Program.cs",
+              "ToolTip": "C:\\Users\\alp.ceyhan\\source\\repos\\ANK16EsyaAJAX\\ANK16EsyaAJAX\\Program.cs",
+              "RelativeToolTip": "ANK16EsyaAJAX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:33:44.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

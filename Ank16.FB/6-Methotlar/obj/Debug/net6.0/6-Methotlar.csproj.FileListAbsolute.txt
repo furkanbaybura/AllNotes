@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\bin\Debug\net6.0\6-Methotlar.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\bin\Debug\net6.0\6-Methotlar.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\bin\Debug\net6.0\6-Methotlar.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\bin\Debug\net6.0\6-Methotlar.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\bin\Debug\net6.0\6-Methotlar.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\refint\6-Methotlar.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\6-Methotlar.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\6-Methotlar\obj\Debug\net6.0\ref\6-Methotlar.dll

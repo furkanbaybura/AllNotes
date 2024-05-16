@@ -1,0 +1,22 @@
+﻿@{
+    
+    
+}
+<div>
+    @foreach (var item in ViewBag.Sayilar)
+    {
+        if(item % 7==0)
+        {
+            <p style="background-color:red">BU SAYI @item</p>
+        Console.WriteLine(item);
+        }
+
+        else if(item%3==0 )
+        {
+            <p style="background-color:blue">BU SAYI @item</p>
+        Console.WriteLine(item);
+        }
+    }
+</div>
+
+

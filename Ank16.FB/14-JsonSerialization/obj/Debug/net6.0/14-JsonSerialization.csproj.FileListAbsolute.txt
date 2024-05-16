@@ -1,0 +1,5 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\14-JsonSerialization\obj\Debug\net6.0\14-JsonSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\14-JsonSerialization\obj\Debug\net6.0\14-JsonSerialization.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\14-JsonSerialization\obj\Debug\net6.0\14-JsonSerialization.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\14-JsonSerialization\obj\Debug\net6.0\14-JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\14-JsonSerialization\obj\Debug\net6.0\14-JsonSerialization.sourcelink.json

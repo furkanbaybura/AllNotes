@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\bin\Debug\net6.0\5-Donguler.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\bin\Debug\net6.0\5-Donguler.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\bin\Debug\net6.0\5-Donguler.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\bin\Debug\net6.0\5-Donguler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\bin\Debug\net6.0\5-Donguler.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\refint\5-Donguler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\5-Donguler.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\5-Donguler\obj\Debug\net6.0\ref\5-Donguler.dll

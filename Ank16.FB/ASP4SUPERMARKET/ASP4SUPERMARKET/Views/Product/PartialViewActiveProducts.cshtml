@@ -1,0 +1,46 @@
+﻿@using ASP4SUPERMARKET.Data.Entities
+@model List<ProductAddEditViewModel>
+
+<a asp-controller="Product" asp-action="Create" class="btn btn-success">Ekle</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Adı</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">StokDurumu</th>
+            <th scope="col">İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (ProductAddEditViewModel vm in Model)
+        {
+            <tr>
+                <td scope="row">@vm.Id</td>
+                <td>@vm.Name</td>
+                <td>@vm.Price</td>
+                <td>@vm.StockStatus</td>
+                <td>
+                    <a asp-controller="Product" asp-action="Details" asp-route-id="@vm.Id" class="btn btn-primary">Detay</a>
+                    <a asp-controller="Product" asp-action="Edit" asp-route-id="@vm.Id" class="btn btn-warning">Düzenle</a>
+                    <a asp-controller="Product" asp-action="Delete" asp-route-id="@vm.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+
+
+
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Adı</th>
+            <th scope="col">Aktif</th>                       
+        </tr>
+    </tfoot>
+
+</table> 

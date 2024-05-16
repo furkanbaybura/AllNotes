@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\bin\Debug\net8.0\18-Delegates.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\bin\Debug\net8.0\18-Delegates.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\bin\Debug\net8.0\18-Delegates.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\bin\Debug\net8.0\18-Delegates.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\bin\Debug\net8.0\18-Delegates.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\refint\18-Delegates.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\18-Delegates.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\18-Delegates\obj\Debug\net8.0\ref\18-Delegates.dll

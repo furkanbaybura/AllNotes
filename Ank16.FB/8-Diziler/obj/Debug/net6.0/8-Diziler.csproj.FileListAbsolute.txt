@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\bin\Debug\net6.0\8-Diziler.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\bin\Debug\net6.0\8-Diziler.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\bin\Debug\net6.0\8-Diziler.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\bin\Debug\net6.0\8-Diziler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\bin\Debug\net6.0\8-Diziler.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\refint\8-Diziler.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\8-Diziler.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\8-Diziler\obj\Debug\net6.0\ref\8-Diziler.dll

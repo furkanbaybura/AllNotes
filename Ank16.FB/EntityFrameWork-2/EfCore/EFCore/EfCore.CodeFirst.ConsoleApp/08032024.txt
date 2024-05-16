@@ -1,0 +1,8 @@
+﻿Data Annotations
+Fluent API
+
+Code First İle CRUD
+
+Loading Çeşitleri, Entity Lifecycle, Change Tracking, Conventions, Seed Data
+
+N-Tier (Katmanlı Mimari Yapısı 3-Katmanlı (UI>BLL>DAL) Onion Arch. )

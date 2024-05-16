@@ -1,0 +1,15 @@
+﻿@model ProductAddEditViewModel
+
+<div class="row">
+
+    <div class="col">
+        <form asp-controller="Product" asp-action="Create">
+           <label asp-for="Name">@Html.DisplayNameFor(m=> m.Name)</label> <input asp-for="Name" class="form-control"/> <br />
+            <label asp-for="Price">@Html.DisplayNameFor(m => m.Price)</label> <input asp-for="Price" class="form-control" /> <br />
+            <label asp-for="StockStatus">@Html.DisplayNameFor(m => m.StockStatus)</label> <input asp-for="StockStatus" class="form-check" /> <br />
+
+            <input type="submit" value="kaydet" class="btn btn-success"/>
+        </form>
+    </div>
+
+</div>

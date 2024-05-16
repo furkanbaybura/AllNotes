@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\bin\Debug\net6.0\OOP6Exercise.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\bin\Debug\net6.0\OOP6Exercise.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\bin\Debug\net6.0\OOP6Exercise.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\bin\Debug\net6.0\OOP6Exercise.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\bin\Debug\net6.0\OOP6Exercise.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\refint\OOP6Exercise.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\OOP6Exercise.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\OOP6Exercise\obj\Debug\net6.0\ref\OOP6Exercise.dll

@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\bin\Debug\net6.0\13-Serilestirme.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\bin\Debug\net6.0\13-Serilestirme.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\bin\Debug\net6.0\13-Serilestirme.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\bin\Debug\net6.0\13-Serilestirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\bin\Debug\net6.0\13-Serilestirme.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\refint\13-Serilestirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\13-Serilestirme.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\13-Serilestirme\obj\Debug\net6.0\ref\13-Serilestirme.dll

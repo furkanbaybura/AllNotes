@@ -1,0 +1,17 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\bin\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\bin\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\bin\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\bin\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\bin\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3_SatrancTahtası.Form1.resources
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.csproj.GenerateResource.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\refint\WinFormsApp3-SatrancTahtası.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\WinFormsApp3-SatrancTahtası.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp3-SatrancTahtası\obj\Debug\net6.0-windows\ref\WinFormsApp3-SatrancTahtası.dll

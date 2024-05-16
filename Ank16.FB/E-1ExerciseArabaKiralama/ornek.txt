@@ -1,0 +1,109 @@
+﻿using System;
+ 
+// Araba arayüzü
+public interface IAraba
+{
+    void Calistir();
+    void Dur();
+    void GazVer(int hiz);
+}
+ 
+// Yakıt türleri
+public enum YakitTuru
+{
+    Benzin,
+    Dizel,
+    Elektrik
+}
+ 
+// Arac sınıfı
+public abstract class Arac : IAraba
+{
+    public string Marka { get; set; }
+    public string Model { get; set; }
+    public int Yil { get; set; }
+    public YakitTuru Yakit { get; set; }
+ 
+    public Arac(string marka, string model, int yil, YakitTuru yakit)
+    {
+        Marka = marka;
+        Model = model;
+        Yil = yil;
+        Yakit = yakit;
+    }
+ 
+    public abstract void Calistir();
+    public abstract void Dur();
+ 
+    public virtual void GazVer(int hiz)
+    {
+        Console.WriteLine($"{Marka} {Model} aracı {hiz} km/s hızına ulaştı.");
+    }
+}
+ 
+// Otomobil sınıfı
+public class Otomobil : Arac
+{
+    public Otomobil(string marka, string model, int yil, YakitTuru yakit) : base(marka, model, yil, yakit)
+    {
+    }
+ 
+    public override void Calistir()
+    {
+        Console.WriteLine($"{Marka} {Model} otomobil çalıştırıldı.");
+    }
+ 
+    public override void Dur()
+    {
+        Console.WriteLine($"{Marka} {Model} otomobil durduruldu.");
+    }
+}
+ 
+// Kamyon sınıfı
+public class Kamyon : Arac
+{
+    public Kamyon(string marka, string model, int yil, YakitTuru yakit) : base(marka, model, yil, yakit)
+    {
+    }
+ 
+    public override void Calistir()
+    {
+        Console.WriteLine($"{Marka} {Model} kamyon çalıştırıldı.");
+    }
+ 
+    public override void Dur()
+    {
+        Console.WriteLine($"{Marka} {Model} kamyon durduruldu.");
+    }
+ 
+    // Kamyonlara özgü bir metot
+    public void YükTasi(int agirlik)
+    {
+        Console.WriteLine($"{Marka} {Model} kamyon {agirlik} tonluk yük taşıyor.");
+    }
+}
+ 
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Örnek kullanım
+        IAraba arac1 = new Otomobil("Toyota", "Corolla", 2020, YakitTuru.Benzin);
+        IAraba arac2 = new Kamyon("Volvo", "FH16", 2019, YakitTuru.Dizel);
+ 
+        arac1.Calistir();
+        arac1.GazVer(80);
+        arac1.Dur();
+ 
+        Console.WriteLine();
+ 
+        arac2.Calistir();
+        arac2.YükTasi(20);
+        arac2.Dur();
+ 
+        Console.ReadLine();
+    }
+}
+
+bağlam menüsü var
+Oluştur

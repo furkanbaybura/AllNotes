@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\bin\Debug\net6.0\10-StaticClass.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\bin\Debug\net6.0\10-StaticClass.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\bin\Debug\net6.0\10-StaticClass.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\bin\Debug\net6.0\10-StaticClass.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\bin\Debug\net6.0\10-StaticClass.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\refint\10-StaticClass.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\10-StaticClass.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\10-StaticClass\obj\Debug\net6.0\ref\10-StaticClass.dll

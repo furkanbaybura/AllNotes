@@ -1,0 +1,5 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\17-OOPTekrar\obj\Debug\net6.0\17-OOPTekrarProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\17-OOPTekrar\obj\Debug\net6.0\17-OOPTekrarProduct.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\17-OOPTekrar\obj\Debug\net6.0\17-OOPTekrarProduct.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\17-OOPTekrar\obj\Debug\net6.0\17-OOPTekrarProduct.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\17-OOPTekrar\obj\Debug\net6.0\17-OOPTekrarProduct.sourcelink.json

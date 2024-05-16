@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\bin\Debug\net6.0\16-OOPCleanCode.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\bin\Debug\net6.0\16-OOPCleanCode.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\bin\Debug\net6.0\16-OOPCleanCode.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\bin\Debug\net6.0\16-OOPCleanCode.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\bin\Debug\net6.0\16-OOPCleanCode.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\refint\16-OOPCleanCode.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\16-OOPCleanCode.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\16-OOPCleanCode\obj\Debug\net6.0\ref\16-OOPCleanCode.dll

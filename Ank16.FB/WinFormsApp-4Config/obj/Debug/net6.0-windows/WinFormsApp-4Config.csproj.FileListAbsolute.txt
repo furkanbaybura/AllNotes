@@ -1,0 +1,17 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\bin\Debug\net6.0-windows\WinFormsApp-4Config.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\bin\Debug\net6.0-windows\WinFormsApp-4Config.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\bin\Debug\net6.0-windows\WinFormsApp-4Config.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\bin\Debug\net6.0-windows\WinFormsApp-4Config.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\bin\Debug\net6.0-windows\WinFormsApp-4Config.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp_4Config.Form1.resources
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.csproj.GenerateResource.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\refint\WinFormsApp-4Config.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\WinFormsApp-4Config.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\WinFormsApp-4Config\obj\Debug\net6.0-windows\ref\WinFormsApp-4Config.dll

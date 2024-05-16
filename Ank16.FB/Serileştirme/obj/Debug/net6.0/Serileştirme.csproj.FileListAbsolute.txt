@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\bin\Debug\net6.0\Serileştirme.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\bin\Debug\net6.0\Serileştirme.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\bin\Debug\net6.0\Serileştirme.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\bin\Debug\net6.0\Serileştirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\bin\Debug\net6.0\Serileştirme.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\refint\Serileştirme.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\Serileştirme.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\Serileştirme\obj\Debug\net6.0\ref\Serileştirme.dll

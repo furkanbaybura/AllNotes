@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\bin\Debug\net6.0\3-Introduction_KararYapıları.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\bin\Debug\net6.0\3-Introduction_KararYapıları.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\bin\Debug\net6.0\3-Introduction_KararYapıları.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\bin\Debug\net6.0\3-Introduction_KararYapıları.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\bin\Debug\net6.0\3-Introduction_KararYapıları.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\refint\3-Introduction_KararYapıları.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\3-Introduction_KararYapıları.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\3-Introduction_KararYapıları\obj\Debug\net6.0\ref\3-Introduction_KararYapıları.dll

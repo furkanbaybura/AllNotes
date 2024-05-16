@@ -1,0 +1,15 @@
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\bin\Debug\net6.0\FurkanBayburUygulamaOOP.exe
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\bin\Debug\net6.0\FurkanBayburUygulamaOOP.deps.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\bin\Debug\net6.0\FurkanBayburUygulamaOOP.runtimeconfig.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\bin\Debug\net6.0\FurkanBayburUygulamaOOP.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\bin\Debug\net6.0\FurkanBayburUygulamaOOP.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.AssemblyInfoInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.AssemblyInfo.cs
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.csproj.CoreCompileInputs.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.sourcelink.json
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\refint\FurkanBayburUygulamaOOP.dll
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.pdb
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\FurkanBayburUygulamaOOP.genruntimeconfig.cache
+C:\Users\furkan.baybura\Source\Repos\Ank16\furkan.baybura\.Net\Ank16.FB\FurkanBayburUygulamaOOP\obj\Debug\net6.0\ref\FurkanBayburUygulamaOOP.dll

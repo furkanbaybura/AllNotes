@@ -1,0 +1,97 @@
+Metot Kavramı - Nedir? Neden İhtiyaç Var?
+- Metotlar daha önceleri fonksiyon blokları olarak adlandırıldı
+Bu fonksiyon yardımı tekrar edecek kod blokları bir yerde yazılıp
+istenen yerde bu fonksiyon çağrılması ile kullanılır. Metot olarak
+adlandırdığımı durum sınıf içi kullanılan fonksiyonlara verilen
+ad olarak geçer. 
+- Sınıf tarafında tanımlı fonksiyon bir metot olarak adlandırılır.
+Bu metotlar sınıfın oluşturulması ile kullanılır.
+- Fonksiyon kavramı ise sınıf ihtiyacı olmadan kullanımasınıdır.
+
+String Metotlar
+ToLower
+ToUpper
+StartsWith
+EndsWith
+Length
+Contains
+PadRight
+PadLeft
+Replace
+Split
+Substring
+IndexOf
+
+Math Metotlar
+E
+PI
+Tau
+Abs(-5));
+Abs(-5.9));
+Abs(-5.7f));
+Abs(-5.68m));
+Ceiling(12.1))
+Floor(12.9));
+Round(12.6));
+Round(12.51));
+Round(12.3));
+Round(12.346, 
+Exp(2));
+Pow(2, 3));
+Sqrt(9));
+Sqrt(12));
+Sin((90 * Math.PI)/180) Radyan
+
+DateTime Metotlar
+DateTime.Now
+DateTime.UtcNow
+
+DateTime dt = new DateTime();
+
+dt = new DateTime(2020, 10, 23);
+dt = new DateTime(2020, 10, 23, 12, 45, 38);
+
+dt.Date
+dt.Day
+dt.Month
+dt.Year
+dt.Hour
+dt.Minute
+dt.Second
+
+DateTime.Now.Millisecond
+
+DateTime.Now
+DateTime.Now.AddDays(5)
+DateTime.Now.AddMonths(5)
+DateTime.Now.AddYears(5)
+DateTime.Now.AddHours(5)
+DateTime.Now.AddMinutes(5)
+DateTime.Now.AddSeconds(5)
+
+DateTime.Now.AddDays(-5)
+DateTime.Now.AddMonths(-5)
+DateTime.Now.AddYears(-5)
+DateTime.Now.AddHours(-5)
+DateTime.Now.AddMinutes(-5)
+DateTime.Now.AddSeconds(-5)
+
+dt.DayOfWeek
+dt.DayOfYear
+DateTime.Now.DayOfYear
+dt.ToString()
+dt.ToLongDateString()
+dt.ToShortDateString()
+dt.ToLongTimeString()
+dt.ToShortTimeString()
+
+Char Metotlar
+char.Parse("M")
+char.IsDigit('5')
+char.IsDigit('A')
+char.IsLower('a')
+char.IsLower('A')
+char.IsUpper('A')
+char.IsUpper('a')
+char.IsLetter('A')
+char.IsLetter('0')

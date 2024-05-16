@@ -1,0 +1,138 @@
+﻿namespace HelloWorld
+{
+    // Namespace scope başlangıcı
+    /*
+     * Değişken tanımlama -> global(genel)
+     * Class tanımlamaya biliriz.
+     * Struct tanımlaya biliriz.
+     * Enum tanımlaya biliriz.
+     * 
+     */
+
+    public class Program // [erişim_belirleyici] class [class_name]
+    { // Class scope başlangıcı
+        static void Main(string[] args)
+        {
+            // See https://aka.ms/new-console-template for more information
+
+            /*
+             * Çok satır yorumlar için 
+             * 
+             * 
+             */
+
+            // Tek satır yorumlar için
+
+            // Değişken tanımlaması
+            // [veri_tipi] [değişken_adı];
+
+            // Tanımlaman değişkene ilk değer atmaası
+            // [değişken_adı] = [ilk_değer];
+
+            // Tanımlama ve ilk değer ataması
+            // [veri_tipi] [değişken_adı] = [ilk_değer];
+
+            int sayi;   // Tanımalama
+            sayi = 10;  // Atama 
+
+            //  C# İlkel veri tipleri
+            /*
+             *  Sayısal Veri tipleri
+             *      # Tam sayılar
+             *           - byte      -> 0 - 255
+             *           - sbyte     -> -128 - 127
+             *           - short     -> ±~32000         => 16Bit Int16 => System.Int16
+             *           - ushort    -> 0 - ~65000
+             *           - int       -> ±~2.1 milyar    => 32Bit Int36 => System.Int32
+             *           - uint      -> 0 - ~4 milyar
+             *           - long      -> ±~9 kattrilyon  => 64Bit Int64 => System.Int64
+             *           - ulong     -> 0 - 18 Kattrilyon
+             *           
+             *      # Ondalıklı - Noktalı sayılar
+             *           - float
+             *           - double
+             *           - decimal
+             */
+
+
+            float sayi2 = 20.5f;
+            double sayi3 = 20.5;
+            decimal sayi4 = 20.5m;
+
+            System.Single sayi5 = 50.5f;
+
+
+            /*
+             *  Metinsel Veri tipleri
+             *  
+             *  - string => "Hello"
+             *  - char => 'h'
+             *  
+             */
+
+            /*
+             *  Tarihsel
+             *  
+             *  - DateTime
+             * 
+             */
+
+            /*
+             *  Other
+             * 
+             *  - Object
+             *  - class
+             *  - bool true/false       default false
+             *  
+             *  Data Structer (Collections)
+             *  - Array
+             *  - ArrayList
+             *  - List
+             *  - Dictionary
+             *  - HashTable
+             *  - HashSet
+             *  
+             */
+
+
+
+
+
+            Console.WriteLine("Hello, World!");
+
+            /*
+             * OUTPUT 
+             * 
+             * Console.Write(str)
+             * 
+             * str parametresini console ekranıan tek satırda yazan ve imleçi aynı
+             * satırda bırakan metot
+             * 
+             * Console.WriteLine(str)
+             * 
+             * str parametresini console ekranıan tek satırda yazan ve sonrası da
+             * imleçi yeni satıra taşıyan metot
+             * 
+             */
+
+            Console.ReadKey();
+
+            /*
+             * INPUT
+             * 
+             * Console.ReadLine();
+             * 
+             * Kod bu satırda kullanıcdan bir veri girmesini ister taki Enter tuşuna 
+             * basana kadar. Bastıktan sonra diğer satıra veya işleme devam eder.
+             * 
+             * Console.ReadKey();
+             * 
+             * Kod bu satırda kullanıcdan bir tane tuşa basmasını ister ve bastıktan 
+             * sonra diğer satıra veya işleme devam eder.
+             * 
+             */
+
+        }
+    }// Class scope sonu
+
+}// Namespace scope sonu

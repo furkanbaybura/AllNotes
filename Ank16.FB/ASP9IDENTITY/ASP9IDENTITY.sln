@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP9IDENTITY", "ASP9IDENTITY\ASP9IDENTITY.csproj", "{F648E6AB-400D-43CA-8B48-B5E25CAC1827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F648E6AB-400D-43CA-8B48-B5E25CAC1827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F648E6AB-400D-43CA-8B48-B5E25CAC1827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F648E6AB-400D-43CA-8B48-B5E25CAC1827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F648E6AB-400D-43CA-8B48-B5E25CAC1827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DFF7804-7321-454D-BD10-D3CAAF66F544}
+	EndGlobalSection
+EndGlobal

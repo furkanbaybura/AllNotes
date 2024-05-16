@@ -1,0 +1,1 @@
+{"id":20,"name":" furkan","surname":"baybura","salary":62000}
