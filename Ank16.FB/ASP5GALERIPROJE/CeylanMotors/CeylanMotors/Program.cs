@@ -1,4 +1,5 @@
-using CeylanMotors.Data;
+
+using Galeri.DAL.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 
@@ -9,10 +10,10 @@ namespace CeylanMotors
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddDbContext<AppDbContext>(op=>
+            builder.Services.AddDbContext<GaleriDbContext>(op =>
             {
                 op.UseSqlServer(builder.Configuration.GetConnectionString("GaleriConStr"));
-            });
+            }, ServiceLifetime.Singleton);
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

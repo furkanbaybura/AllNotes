@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CeylanMotors
 build_property.RootNamespace = CeylanMotors
-build_property.ProjectDir = C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\
+build_property.ProjectDir = C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors
+build_property.MSBuildProjectDirectory = C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Hakkımızda/Index.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Hakkımızda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra8SxbcSxemRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Home/Index.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Home/Privacy.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/IlanlarContreller/Index.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/IlanlarContreller/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhbmxhckNvbnRyZWxsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Index-test.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Index-test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXgtdGVzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Reference/Index.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Reference/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/Error.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/_AnaYapi.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/_AnaYapi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbmFZYXBpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/_ViewImports.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/_ViewStart.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/furkan.baybura/Source/Repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/İletisim/Index.cshtml]
+[C:/Users/user/source/repos/AllNotes/Ank16.FB/ASP5GALERIPROJE/CeylanMotors/CeylanMotors/Views/İletisim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcxLBsZXRpc2ltXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -65,4 +65,8 @@
     <Folder Include="wwwroot\js\home\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Galeri.DAL\Galeri.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP6UYGULAMA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc62224b81b20a2c9dd53ab2b483e81956f7946d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP6UYGULAMA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP6UYGULAMA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\bin\Debug\net8.0\Galeri.BLL.deps.json
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\bin\Debug\net8.0\Galeri.BLL.dll
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\bin\Debug\net8.0\Galeri.BLL.pdb
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.sourcelink.json
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.dll
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\refint\Galeri.BLL.dll
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\Galeri.BLL.pdb
+C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Galeri.BLL\obj\Debug\net8.0\ref\Galeri.BLL.dll
