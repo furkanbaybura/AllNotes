@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ank16.FB"
+    "\\Ank16.FB",
+    "\\Ank16.FB\\ASP5GALERIPROJE",
+    "\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors",
+    "\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors",
+    "\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views",
+    "\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\\u0130letisim"
   ],
+  "SelectedNode": "\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\\u0130letisim\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
