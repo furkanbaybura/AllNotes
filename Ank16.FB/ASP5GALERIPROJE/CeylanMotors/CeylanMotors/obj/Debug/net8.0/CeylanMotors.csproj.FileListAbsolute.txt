@@ -426,3 +426,8 @@ C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\Ceylan
 C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.Entities.dll
 C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.DAL.pdb
 C:\Users\user\source\repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.Entities.pdb
+C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.DAL.dll
+C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.Entities.dll
+C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.DAL.pdb
+C:\Users\furkan.baybura\Source\Repos\AllNotes\Ank16.FB\ASP5GALERIPROJE\CeylanMotors\CeylanMotors\bin\Debug\net8.0\Galeri.Entities.pdb
