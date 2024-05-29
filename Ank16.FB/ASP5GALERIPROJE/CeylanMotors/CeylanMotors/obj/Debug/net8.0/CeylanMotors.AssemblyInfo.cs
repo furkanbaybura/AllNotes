@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CeylanMotors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4fe3e9510655d628c6e23fc8e72e6a45f16eb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5381b29b7f373cd768dcbc080e7980d8f86510f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CeylanMotors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CeylanMotors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F2767DE-CB59-4AD8-B2A1-C77BF2A54B74}|CeylanMotors\\CeylanMotors.csproj|c:\\users\\user\\source\\repos\\allnotes\\ank16.fb\\asp5galeriproje\\ceylanmotors\\ceylanmotors\\views\\shared\\_anayapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F2767DE-CB59-4AD8-B2A1-C77BF2A54B74}|CeylanMotors\\CeylanMotors.csproj|solutionrelative:ceylanmotors\\views\\shared\\_anayapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F2767DE-CB59-4AD8-B2A1-C77BF2A54B74}|CeylanMotors\\CeylanMotors.csproj|c:\\users\\user\\source\\repos\\allnotes\\ank16.fb\\asp5galeriproje\\ceylanmotors\\ceylanmotors\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F2767DE-CB59-4AD8-B2A1-C77BF2A54B74}|CeylanMotors\\CeylanMotors.csproj|solutionrelative:ceylanmotors\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CeylanMotors\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CeylanMotors\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T20:11:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AnaYapi.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\Shared\\_AnaYapi.cshtml",
+              "RelativeDocumentMoniker": "CeylanMotors\\Views\\Shared\\_AnaYapi.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AllNotes\\Ank16.FB\\ASP5GALERIPROJE\\CeylanMotors\\CeylanMotors\\Views\\Shared\\_AnaYapi.cshtml",
+              "RelativeToolTip": "CeylanMotors\\Views\\Shared\\_AnaYapi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:27:16.711Z",
               "EditorCaption": ""
             }
           ]
